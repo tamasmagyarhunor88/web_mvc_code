@@ -49,6 +49,9 @@ There are two videos to support:
 # Run the app
 ; python app.py
 # Now visit http://localhost:5001/emoji in your browser
+
+# See my fantastic diagram
+https://excalidraw.com/#json=YsL_qc_yfOu5NnGcatmr6,LAVm_ZfDKnskj2jHFcq8Xg
 ```
 
 If you would like to remove the example code:
